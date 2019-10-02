@@ -1,0 +1,1 @@
+This is Mallory's first git project!
